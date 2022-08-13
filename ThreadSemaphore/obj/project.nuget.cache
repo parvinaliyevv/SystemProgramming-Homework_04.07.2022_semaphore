@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FN+5KM+dQolzsRQpk4636jiEzKQKCk8vyjksN56dK2Jv5nIYwcMrpTxsDZe+49TeMXHXpYqB0zzBrRwGGlCQYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\ThreadSemaphore\\ThreadSemaphore\\ThreadSemaphore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\materialdesigncolors\\2.0.6\\materialdesigncolors.2.0.6.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\materialdesignthemes\\4.5.0\\materialdesignthemes.4.5.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
